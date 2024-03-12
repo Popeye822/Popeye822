@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200" height="200" />
   <h2>- 🌱 I’m currently learning ... web development</h2>
 </div>
-<div>
+<main>
   <hr>
   :hammer_and_wrench: Languages and Tools :
   <div>
@@ -23,7 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="npm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node" alt="node" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;
-  </div>
+  </main>
 </div>
 
 <!--
