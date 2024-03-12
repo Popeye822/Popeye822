@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Kalle Sepponen</h1>
+
 <div id="header" align="center">
+  <h1>Kalle Sepponen</h1>
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200" height="200" />
 </div>
