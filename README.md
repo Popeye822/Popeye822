@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 </div>
 <div>
   <hr>
-  hammer_and_wrench: Languages and Tools :
+  :hammer_and_wrench: Languages and Tools :
 </div>
 
