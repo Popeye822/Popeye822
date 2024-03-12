@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Kalle Sepponen</h1>
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200" height="200" />
-  <h2>- 🌱 I’m currently learning ... web development</h2>
+  <h2>🌱 I’m currently learning ... web development</h2>
 </div>
 <main>
   <hr>
