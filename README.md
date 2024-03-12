@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   <h1>Kalle Sepponen</h1>
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200" height="200" />
   <h2>- 🌱 I’m currently learning ... web development</h2>
+</div>
+<div>
+  <hr>
   ### :hammer_and_wrench: Languages and Tools :
 </div>
 
